@@ -8,10 +8,11 @@ To get started with this project, you can follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/kroax9797/AutoEncoder.git
+*git clone https://github.com/kroax9797/AutoEncoder.git*
 
 2. Install the required dependencies:
-pip install -r requirements.txt
+
+*pip install -r requirements.txt*
 
 ## Implementation Details
 ### Dataset
